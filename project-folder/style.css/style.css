@@ -1,0 +1,115 @@
+body {
+  font-family:"Winky Rough", sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+h1{
+  color: #07103d;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #27023a;
+  }
+
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin: 20px 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  text-align: left;
+  color: #4f4f4f;
+
+}
+
+th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+  color: #4f4f4f;
+}
+
+.left {
+  text-align: left;
+}
+
+.cen {
+  text-align: center;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 35px;
+}
+
+.ter {
+  text-align: right;
+    text-align: center;
+}
+
+.park {
+  text-align: left;
+    text-align: center;
+    padding-top: 10px;
+  padding-bottom: 35px;
+}
+
+.rung {
+  text-align: right;
+    text-align: center;
+    padding-top: 10px;
+  padding-bottom: 35px;
+}
+
+.sit {
+  text-align: right;
+    text-align: center;
+}
+
+.sumo {
+  text-align: right;
+  text-align: center;
+  font-weight: bold;
+}
+
+.samo {
+  text-align: right;
+    text-align: center;
+    font-weight: bold;
+}
+
+.saji {
+  text-align: right;
+}
+td {
+    text-align: center;
+    
+}
+.le{
+  text-align: left;
+}
+.jj {
+  text-align: center;
+}
+.ry {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  
+}
+
+.ry img {
+  width: 250px;
+  height: auto;
+  border-radius: 50px;
+  }
+  .sun{
+    text-align: center;
+  }
+  .sho{
+    font-weight: bold;
+  }
